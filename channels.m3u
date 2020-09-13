@@ -30,6 +30,8 @@ https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png" group-title="",TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd2.smil/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png" group-title="",Teve2
 https://soledge13.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
@@ -45,7 +47,8 @@ https://canli.ensonhaber.com/tr/360tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png" group-title="",TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RYn236p/dmaxx.png" group-title="",DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png" group-title="",Vizyon TV
 https://vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8
@@ -64,8 +67,6 @@ https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/ma
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DRdWWY9/criturk.png" group-title="",CRI Türk Dizi
 http://cri.aa.net.tr:1935/dizi/dizi/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RznYK89/cn.png" group-title="",Cartoon Network
 https://streams.livetv.az/turk/cartoon/playlist.m3u8
